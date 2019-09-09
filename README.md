@@ -62,7 +62,7 @@ features Image has (the goal is to be fully compaitable with Image and support a
 Just two simple steps:
 
 ```console
-npm install --save react-native-photo-view
+npm install --save ngager-group/react-native-photo-view
 ```
 
 ```console
